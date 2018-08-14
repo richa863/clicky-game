@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "./assets/images/captainsandler.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "./assets/images/childsandler.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "./assets/images/comicsansler.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "./assets/images/copsandler.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "./assets/images/cowboysandler.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "./assets/images/dangersandler.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "./assets/images/evilsandler.png",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "./assets/images/hansandler.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "./assets/images/hoodiesandler.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "./assets/images/operasandler.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "./assets/images/sexysandler.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "./assets/images/singingsandler.jpeg",
+    "clicked": false
+  }
+]
